@@ -9,5 +9,5 @@ CentOS7.X 仅支持64位系统
 
 # 搭建脚本
 ~~~
-yum -y install wget && wget -O fas "http://ml.fxgnt.cn/fas" && bash fas
+yum -y install wget && wget -O fas "https://raw.githubusercontent.com/gouidea/fas/main/fas" && bash fas
 ~~~
